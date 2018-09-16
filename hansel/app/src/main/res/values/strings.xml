@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Bread crumber</string>
+    <string name="app_name">Bread crumbor</string>
     <string name="permission_rationale">Hansel totally relies on Geo location!</string>
     <string name="ok">OK</string>
     <string name="permission_denied_explanation">but... we need it...</string>
